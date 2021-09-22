@@ -1,0 +1,30 @@
+{
+  "name": "suggestion-box-hw",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "mongoose": "^6.0.7",
+    "morgan": "~1.9.1"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brandon121j/A-Suggestion-box.git"
+  },
+  "author": "Brandon Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandon121j/A-Suggestion-box/issues"
+  },
+  "homepage": "https://github.com/brandon121j/A-Suggestion-box#readme",
+  "description": ""
+}
